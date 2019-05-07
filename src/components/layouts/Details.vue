@@ -137,7 +137,7 @@ export default {
 				{
 					for: 'Citywide',
 					text: 'City survey',
-					link: 'https://www.cityoflewisville.com/home/showdocument?id=9746'
+					link: 'http://www.cityoflewisville.com/home/showdocument?id=9746'
 				},
 				{
 					for: 'Finance',

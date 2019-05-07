@@ -109,7 +109,7 @@
 						</td>
 						<td class="center-align grey-text text-darken-2" v-if="admin">
 							<a class="btn-flat grey lighten-2"
-								:href="'https://eservices.cityoflewisville.com/psofia/node/index.html?form=42&amp;recordnumber='+metric.psofia_recordid"
+								:href="'http://eservices.cityoflewisville.com/psofia/node/index.html?form=42&amp;recordnumber='+metric.psofia_recordid"
 								target="_blank">
 								<i class="material-icons">edit</i>
 							</a>
